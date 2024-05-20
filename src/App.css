@@ -36,3 +36,14 @@
     transform: rotate(360deg);
   }
 }
+#pusa{
+  /* width: 300px !important;
+  height: 200px !important; */
+  object-fit: fill;
+}
+/* #pusacard{
+  height: 500px!important;
+} */
+
+
+
