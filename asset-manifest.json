@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/wd100-react-mp2/static/css/main.e1648250.css",
+    "main.js": "/wd100-react-mp2/static/js/main.ba7e4982.js",
+    "static/js/453.a97299b0.chunk.js": "/wd100-react-mp2/static/js/453.a97299b0.chunk.js",
+    "static/media/ai-generated-8620359_1280.png": "/wd100-react-mp2/static/media/ai-generated-8620359_1280.c4d5a9c5cb3202340763.png",
+    "static/media/brit.png": "/wd100-react-mp2/static/media/brit.efa964d6df73d8e6a574.png",
+    "static/media/Facts-about-cats.jpg": "/wd100-react-mp2/static/media/Facts-about-cats.77a10797be79f43ccd3c.jpg",
+    "static/media/cat-1045782_1280.jpg": "/wd100-react-mp2/static/media/cat-1045782_1280.32834c98c658abd4c627.jpg",
+    "static/media/cat-1647775_1280.jpg": "/wd100-react-mp2/static/media/cat-1647775_1280.64508f49b79a316ec7a1.jpg",
+    "static/media/cat-2083492_1280.jpg": "/wd100-react-mp2/static/media/cat-2083492_1280.c2e6fc46b1f95716bd29.jpg",
+    "static/media/cute-sleepy-kitten-website-header.jpg": "/wd100-react-mp2/static/media/cute-sleepy-kitten-website-header.9adbf1f1dd065c6768ca.jpg",
+    "static/media/european-shorthair-8601492_1280.jpg": "/wd100-react-mp2/static/media/european-shorthair-8601492_1280.45131e2a2cbe70c3e307.jpg",
+    "static/media/Logo.png": "/wd100-react-mp2/static/media/Logo.88123af88209a2b29950.png",
+    "index.html": "/wd100-react-mp2/index.html",
+    "main.e1648250.css.map": "/wd100-react-mp2/static/css/main.e1648250.css.map",
+    "main.ba7e4982.js.map": "/wd100-react-mp2/static/js/main.ba7e4982.js.map",
+    "453.a97299b0.chunk.js.map": "/wd100-react-mp2/static/js/453.a97299b0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e1648250.css",
+    "static/js/main.ba7e4982.js"
+  ]
+}
